@@ -183,3 +183,9 @@ Three heuristic metrics per generated answer:
 - **Faithfulness** — fraction of numeric values in the answer that appear in the retrieved context (directly measures hallucination)
  the three.
 
+---
+<div align="center">
+
+@2026
+
+</div>
